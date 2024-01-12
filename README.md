@@ -15,3 +15,8 @@ The transmitter is an Alys Spartan 6 development board with a Xilinx FPGA. It is
 The receiver is a NUCLEO-F411RE development board with an STM microcontroller. The receving antenna is connected to an A/D converter. Analog samples are fed into an FFT algorithm, using which the currently transmitted frequency can be estimated.
 
 The detected frequency is sent to a computer over a serial connection, for presentation purposes.
+
+## Example
+
+https://github.com/MajFontana/experiment-nf-transmission/assets/48356730/ed6bd74c-936f-4b7c-b161-95c0582f7334
+
